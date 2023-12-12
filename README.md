@@ -97,12 +97,17 @@ else:
 
 
 ```
-## Sample Input and Output
+## Output:
+Output 1:
+![image](https://raw.githubusercontent.com/sudharsanakumar18/Search-Algorithm/main/python%203b%20a.png)
 
+Output 2:
+![image](https://raw.githubusercontent.com/sudharsanakumar18/Search-Algorithm/main/python%203b%20b1.png)
+![image](https://raw.githubusercontent.com/sudharsanakumar18/Search-Algorithm/main/pyhton%203b%20b2.png)
 
-
-
-
+Output 3:
+![image](https://raw.githubusercontent.com/sudharsanakumar18/Search-Algorithm/main/python%203b%20c1.png)
+![image](https://raw.githubusercontent.com/sudharsanakumar18/Search-Algorithm/main/python%203b%20c2.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
